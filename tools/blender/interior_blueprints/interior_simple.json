@@ -1,0 +1,13 @@
+
+{
+	"volumes" : [
+		{
+			"x_start": -3,
+			"x_end": 3,
+			"y_start": -3,
+			"y_end": 3,
+			"z_start": 0,
+			"z_end": 1
+		}
+	]
+}

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatusDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MapViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StarSystemViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="MainWindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="RenderWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="StatusDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MapViewer.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="StarSystemViewer.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="StatusDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\images\ads_icon.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_icon2.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_logo.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_tile_blue.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_tile_blue_light.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_tile_green.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\ads_tile_orange.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\app.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\color_lens.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\create_floating_editor.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\create_floating_table.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\crop_original.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\custom-menu-button.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="resources\dashboard_gui.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="resources\images\date_range.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\docked_editor.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\edit.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\find_in_page.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\folder.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\folder_open.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\font_download.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\fullscreen.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\grid_on.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\help_outline.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\note_add.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\panorama.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\perm_media.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\photo.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\picture_in_picture.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\plus.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\restore.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\save.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\tab.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\res\visual_studio_light.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\zoom_in.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\zoom_out.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\images\zoom_out_map.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resources\app.rc" />
+  </ItemGroup>
+</Project>

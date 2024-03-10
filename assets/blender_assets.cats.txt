@@ -1,0 +1,46 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+2c51d84c-ccbe-4abe-a891-f07386a5c57f:Furniture:Furniture
+de2a0184-5f81-4c4e-88ab-fac5faf8cfab:Furniture/Bathroom:Furniture-Bathroom
+2d3f36bf-9abb-4ec9-861d-bf052d2bc2cd:Furniture/Beds:Furniture-Beds
+fcab1b6f-c184-46b2-97c1-28004cf95b72:Furniture/Carpets:Furniture-Carpets
+3e654e59-8487-4535-9c61-38172df6a762:Furniture/Chairs:Furniture-Chairs
+9fdba708-8229-41e7-ad7a-313135560887:Furniture/Cupboards:Furniture-Cupboards
+2144eb4c-7911-45af-81a5-ecfe126b0ccd:Furniture/Dressers:Furniture-Dressers
+b20aaca4-310b-4a10-8dea-8e46bc7fec23:Furniture/Kitchen:Furniture-Kitchen
+4729b20d-045d-42e8-848c-c724ab36af87:Furniture/Miscellaneous:Furniture-Miscellaneous
+5e094742-e4f4-438c-9b8e-afaf772556f8:Furniture/Shelves:Furniture-Shelves
+7a70b5f6-9e7c-477b-b286-b4a06f368a78:Furniture/Sofas:Furniture-Sofas
+0ac02d42-e1a4-4998-973a-ef86507f444c:Furniture/Tables:Furniture-Tables
+c82ca270-97b6-48b3-9afb-fd65fc040c90:Furniture/Tables/Coffee:Furniture-Tables-Coffee
+9b8f0361-f91e-4c3f-a090-c28d206aa7f3:Furniture/Tables/Kitchen:Furniture-Tables-Kitchen
+e485a6a9-6667-4d54-b249-74c201c54dd6:Furniture/Tables/Work:Furniture-Tables-Work
+573efad1-f75c-4ab1-943c-ac27d835bc88:Furniture/Training:Furniture-Training
+34eef147-fd21-4dfd-a880-b3f43f84ea0c:Furniture/Wall Cabinets:Furniture-Wall Cabinets
+22c83aa6-18f7-4c14-aff5-c42b0f271ce3:LargeScale:LargeScale
+9bb37473-d5f2-426d-9082-9610fbd2c6ba:LargeScale/Space Stations:LargeScale-Space Stations
+2bea70ea-b4a1-4f6e-9630-7a0373f45200:LargeScale/Space Stations/Admin-Research:LargeScale-Space Stations-Admin-Research
+808e1f14-44f0-426f-987d-d612878a2912:LargeScale/Space Stations/Crew-Civilian-Amenities:LargeScale-Space Stations-Crew-Civilian-Amenities
+e5694399-0b19-4b29-9f38-11a9948f4c47:LargeScale/Space Stations/Production:LargeScale-Space Stations-Production
+e9fc9647-156a-4544-b967-581a66cd5725:LargeScale/Space Stations/Transparent:LargeScale-Space Stations-Transparent
+3b2c3321-bdf9-42ef-9320-ae34e81cd793:Props:Props
+a9aee39d-bb43-496d-9e2a-adc8abffb7d5:Props/Catalog:Props-Catalog
+1fe28e68-f0da-4025-b516-0390210fbbe8:Props/Decorations:Props-Decorations
+40eb64c2-5b5f-4121-92c4-3114bca7430c:Props/Electronics:Props-Electronics
+11790d81-d3de-4936-83cf-815af91d08c9:Props/Entertainment:Props-Entertainment
+bda26d06-fec3-42c8-b216-5c4983cb3433:Props/Kitchen:Props-Kitchen
+53e88096-6b7f-4a11-a02a-4f8a2e590eff:Props/Lamps:Props-Lamps
+7581f9c3-91ac-43cf-8633-98b847ee4b50:Props/Miscellaneous:Props-Miscellaneous
+6d35bca8-64d7-4221-a220-724cb99f4f95:Props/Plants:Props-Plants
+cbe202c1-a4b1-4e2d-912c-47f6de5d1ffd:Structural:Structural
+4d41155f-c802-463c-8f00-6b6830b3c533:Structural/Floors:Structural-Floors
+e88640ad-e9ed-4968-aca5-20509a2d323c:Structural/Miscellaneous:Structural-Miscellaneous
+3caf1ef6-f1b6-4e81-b5ef-28a407fd47c1:Structural/Pipes:Structural-Pipes
+d12ef545-85e9-4792-82fc-762248abf4c4:Structural/Surfaces:Structural-Surfaces
+fd980106-7ed7-4b02-a3e0-eb118e7caf94:Structural/Walls:Structural-Walls

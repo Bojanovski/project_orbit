@@ -1,0 +1,12 @@
+[submodule "source/eigen"]
+	path = source/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "source/tinygltf"]
+	path = source/tinygltf
+	url = https://github.com/syoyo/tinygltf.git
+[submodule "source/mikktspace"]
+	path = source/mikktspace
+	url = https://github.com/mmikk/MikkTSpace.git
+[submodule "source/cycles"]
+	path = source/cycles
+	url = https://github.com/Bojanovski/cycles.git
